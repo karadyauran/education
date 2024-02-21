@@ -10,3 +10,10 @@ algorithms and frameworks.
 - `TypeScript`
 - `Django`
 - `React`
+
+## 📋 Python themes order
+
+1. [`Type conversion`](https://github.com/karadyauran/education/tree/main/type_conversion)
+2. [`Variables`](https://github.com/karadyauran/education/tree/main/variables)
+3. [`Data types`](https://github.com/karadyauran/education/tree/main/data_types)
+4. [`Numbers`](https://github.com/karadyauran/education/tree/main/numbers)
